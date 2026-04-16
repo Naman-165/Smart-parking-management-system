@@ -31,3 +31,14 @@ The system allows the admin to assign parking slots to vehicles, search vehicle 
 
 🌐 Live Demo
 https://smart-parking.rf.gd/
+
+📂 Project Structure
+
+smart-parking/
+│── index.php
+│── dashboard.php
+│── db.php
+│── css/
+│── js/
+│── images/
+│── database.sql
