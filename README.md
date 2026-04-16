@@ -29,9 +29,6 @@ The system allows the admin to assign parking slots to vehicles, search vehicle 
 | MySQL      | Database     |
 | XAMPP      | Local Server |
 
-🌐 Live Demo
-https://smart-parking.rf.gd/
-
 📂 Project Structure
 
 smart-parking/
@@ -42,3 +39,8 @@ smart-parking/
 │── js/
 │── images/
 │── database.sql
+
+🌐 Live Demo
+https://smart-parking.rf.gd/
+
+
