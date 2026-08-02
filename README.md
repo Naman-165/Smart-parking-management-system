@@ -40,7 +40,5 @@ smart-parking/
 │── images/
 │── database.sql
 
-🌐 Live Demo
-https://smart-parking.rf.gd/
 
 
